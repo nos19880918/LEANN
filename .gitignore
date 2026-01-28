@@ -20,6 +20,7 @@ demo/experiment_results/**/*.json
 *.json
 *.png
 !.vscode/*.json
+!.cursor/environment.json
 *.sh
 *.txt
 !CMakeLists.txt

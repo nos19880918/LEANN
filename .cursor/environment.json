@@ -1,0 +1,8 @@
+{
+  "build": {
+    "image": "ubuntu:latest"
+  },
+  "install": "echo 'Documentation Environment Ready - No Build Required'",
+  "start": "echo 'Agent Started'",
+  "terminals": []
+}
